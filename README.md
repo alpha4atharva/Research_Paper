@@ -16,4 +16,4 @@ This paper has been accepted by the IEEE council and is available on their websi
 
 
 ## Contact
-For any questions or discussions, please contact [vssajwan09123@gmail.com](mailto:vssajwan09123@gmail.com).
+For any questions or discussions, please contact [ranaatharva@gmail.com](mailto:ranaatharva@gmail.com).
